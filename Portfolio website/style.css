@@ -1,0 +1,44 @@
+#header{
+    
+    background-image: url('./programmer_girl.jpg');
+    background-size: cover;
+    height: 600px;
+}
+
+   
+  .contactme{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 50px;
+  }
+  li{
+    padding: 10px;
+    list-style: none;
+    font-size: 20px;
+  }
+  a{
+    text-decoration: none;
+    color: black;
+  }
+
+  .box{
+    width: fit-content;
+    background-color: rgba(255, 255, 255, 0.436);
+    
+    }
+
+  .bigbox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .aboutme{
+  background-color: rgb(221, 191, 226);
+  
+  }
+  .title{
+    background-color: rgb(86, 246, 225);
+    text-align: center;
+    
+  }
+  
